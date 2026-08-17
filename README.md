@@ -35,7 +35,7 @@ Improve problem-solving skills and build a strong Python foundation through cons
 ## Progress
 
 - [x] Basics
-- [ ] Conditions
+- [x] Conditions
 - [ ] Loops
 - [ ] Strings
 - [ ] Lists
